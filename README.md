@@ -9,11 +9,11 @@
   <a href="http://qiita.com/sasafukoharu">
     <img height="20" src="https://qiita-badge.apiapi.app/s/sasafukoharu/posts.svg" />
   </a>
-  <a href="http://qiita.com/sasafukoharu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/sasafukoharu/contributions.svg" />
+  <a href="http://qiita.com/haru98da">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/haru98da/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/sasafukoharu">
-    <img height="20" src="https://badgen.org/img/zenn/sasafukoharu/articles?style=plastic" />
+  <a href="https://zenn.dev/haru98da">
+    <img height="20" src="https://badgen.org/img/zenn/haru98da/articles?style=plastic" />
   </a>
 </p>
 
